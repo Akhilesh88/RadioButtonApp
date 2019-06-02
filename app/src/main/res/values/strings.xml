@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">RadioButtonApplication</string>
+<string name="rate_tutorials">Rate Tutorials</string>
+    <string name="rate">How are you?</string>
+</resources>
